@@ -1,6 +1,6 @@
 module Dance
 
-  def twirling
+  def twirl
     "I'm twirling!"
   end
 
@@ -16,7 +16,4 @@ module Dance
     "Thank you, thank you. It was a pleasure to dance for you all."
   end
 
-
-
-
-  
+end
